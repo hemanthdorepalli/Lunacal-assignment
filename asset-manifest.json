@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hemanthdorepalli/Lunacal-assignment.git/static/css/main.672ef6a7.css",
-    "main.js": "/hemanthdorepalli/Lunacal-assignment.git/static/js/main.f2200d66.js",
-    "static/js/453.d1ead18a.chunk.js": "/hemanthdorepalli/Lunacal-assignment.git/static/js/453.d1ead18a.chunk.js",
-    "index.html": "/hemanthdorepalli/Lunacal-assignment.git/index.html",
-    "main.672ef6a7.css.map": "/hemanthdorepalli/Lunacal-assignment.git/static/css/main.672ef6a7.css.map",
-    "main.f2200d66.js.map": "/hemanthdorepalli/Lunacal-assignment.git/static/js/main.f2200d66.js.map",
-    "453.d1ead18a.chunk.js.map": "/hemanthdorepalli/Lunacal-assignment.git/static/js/453.d1ead18a.chunk.js.map"
+    "main.css": "/Lunacal-assignment/static/css/main.672ef6a7.css",
+    "main.js": "/Lunacal-assignment/static/js/main.658ed11e.js",
+    "static/js/453.d1ead18a.chunk.js": "/Lunacal-assignment/static/js/453.d1ead18a.chunk.js",
+    "index.html": "/Lunacal-assignment/index.html",
+    "main.672ef6a7.css.map": "/Lunacal-assignment/static/css/main.672ef6a7.css.map",
+    "main.658ed11e.js.map": "/Lunacal-assignment/static/js/main.658ed11e.js.map",
+    "453.d1ead18a.chunk.js.map": "/Lunacal-assignment/static/js/453.d1ead18a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.672ef6a7.css",
-    "static/js/main.f2200d66.js"
+    "static/js/main.658ed11e.js"
   ]
 }
